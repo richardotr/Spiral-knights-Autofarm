@@ -1,8 +1,29 @@
 # Spiral-knights-Autofarm
 
 password is mathews birthday 
+# setup v2
+read setup v1
+****NOT COMPATIBLE WITH STEAM****
+download the game directly from the website.
+https://www.spiralknights.com/download.xhtml
+only tested to be safe with 4 accounts. +4 threads at your own risk
 
-# setup
+rich_launcher.jar from v2 doesnt force apply anything. 
+Go ahead and delete rich_mods.folder
+to apply certain gfx. use knight launcher.
+
+upgraded pathfinding. 
+now uses a-star
+doesnt stutter
+
+ghost block added to target que
+
+resets when these enter fov
+-water ball (new)
+-stone statue
+-gear
+
+# setup v1
 --------------------
 extract all
 *note rich1.jar , rich2.jar, rich_launcher.jar
