@@ -1,6 +1,16 @@
-# Spiral-knights-Autofarm
+# Spiral-knights-Blueberry-Cake-Recipe
 
 password is mathews birthday 
+# setup v3
+same.
+- new addons -
+no autogun spray : false
+better pathfinding.
+each game is now default to solo.
+no bullet clip is now undetectable
+no walk clip **DANGER
+option to close client after x time
+
 # setup v2
 read setup v1
 ****NOT COMPATIBLE WITH STEAM****
