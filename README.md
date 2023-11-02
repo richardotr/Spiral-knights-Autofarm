@@ -1,6 +1,31 @@
 # Spiral-knights-Blueberry-Cake-Recipe
 
 password is mathews birthday 
+
+# setup v3.5
+same.
+DONT use [no walk clip].
+[no walk clip] kicked me a lot.
+use [EH walk clp]
+- it only lets you clip the edges of squares
+- yup, its more restrictive = nearly undetectable
+
+updated rich_config.
+
+upgraded pathfinding again :P.
+
+autofarm now locks to target
+-targets healers and butterflies
+- now supports bombs. (READ rich_config)
+
+preferred weapons
+- warmaster rocket hammer
+- leviathan blade
+- bombs
+    open rich_config.yml
+        autofarm_setting:
+            charge_only: true in rich_config.yml
+
 # setup v3
 same.
 - new addons -
